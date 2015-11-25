@@ -11,7 +11,7 @@ ESLint shareable config for the OneFE JavaScript style guide
 
 
 [npm-badge]: http://badge.fury.io/js/eslint-config-onefe.svg
-[npm]: http://badge.fury.io/js/eslint-config-onefe
+[npm]: https://www.npmjs.com/package/eslint-config-onefe
 
 [deps-badge]: https://david-dm.org/onefe/eslint-config-onefe.svg
 [deps]: https://david-dm.org/onefe/eslint-config-onefe
