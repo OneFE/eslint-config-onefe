@@ -1,0 +1,54 @@
+{
+  "name": "eslint-config-onefe",
+  "version": "0.0.1",
+  "description": "ESLint shareable config for the OneFE JavaScript style guide",
+  "license": "MIT",
+  "repository": "onefe/eslint-config-onefe",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "babel-tape-runner ./test/test-*.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide",
+    "google",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "jslint",
+    "eslint",
+    "validate",
+    "code style",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint"
+  ],
+  "dependencies": {
+    "deep-assign": "^2.0.0",
+    "eslint-config-airbnb": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-tape-runner": "1.2.0",
+    "eslint": "^1.8.0",
+    "eslint-plugin-react": "^3.7.1",
+    "react": "^0.13.3",
+    "tape": "^4.2.2"
+  },
+  "peerDependencies": {
+    "eslint": ">=1.8.0"
+  }
+}
