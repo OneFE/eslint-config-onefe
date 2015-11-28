@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-onefe",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "ESLint shareable config for the OneFE JavaScript style guide",
   "license": "MIT",
   "repository": "onefe/eslint-config-onefe",
