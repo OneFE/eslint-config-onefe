@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-onefe",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint shareable config for the OneFE JavaScript style guide",
   "license": "MIT",
   "repository": "onefe/eslint-config-onefe",
@@ -38,10 +38,12 @@
     "hint"
   ],
   "dependencies": {
-    "eslint-config-airbnb": "^1.0.0"
+    "eslint-config-airbnb": "^1.0.2"
   },
   "devDependencies": {
+    "babel-eslint": "^4.1.4",
     "eslint": "^1.8.0",
+    "eslint-config-onefe": "./",
     "eslint-plugin-react": "^3.7.1",
     "react": "^0.14.3"
   },
