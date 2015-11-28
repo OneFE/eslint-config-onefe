@@ -6,7 +6,7 @@
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
 
-ESLint shareable config for the [OneFE](https://github.com/OneFE) JavaScript style guide
+ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [OneFE](https://github.com/OneFE) JavaScript style guide
 
 
 
